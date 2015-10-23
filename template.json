@@ -49,9 +49,5 @@
         }
       }
     ]
-  ],
-  "push": {
-    "name": "mirakui/example",
-    "vcs": true
-  }
+  ]
 }
